@@ -113,6 +113,9 @@ This project was built using **Lovable**, an AI-assisted no-code platform.
 
 ---
 
-## 📜 License
-MIT License
+## 📌 Usage Notice
+
+This project is shared for **educational and portfolio purposes only**.  
+Reproduction, redistribution, or commercial use is not permitted without permission.
+
 
