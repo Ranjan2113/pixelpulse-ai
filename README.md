@@ -3,6 +3,15 @@
 PixelPulse AI is an AI-powered content creation prototype that transforms a single idea into a complete **social media content pack** — including script, thumbnail, voiceover, and background music prompt — helping creators and small teams produce content faster with Generative AI.
 
 ---
+## 🎥 Working Demo
+
+Below is a short demo of PixelPulse AI showing how a single idea is converted
+into a complete AI-generated content pack.
+
+
+https://github.com/user-attachments/assets/f056c65c-26ae-472e-b670-7e9c833d4f60
+
+---
 
 ## 🚩 Problem
 
