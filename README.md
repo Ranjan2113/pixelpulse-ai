@@ -9,7 +9,10 @@ Below is a short demo of PixelPulse AI showing how a single idea is converted
 into a complete AI-generated content pack.
 
 
-https://github.com/user-attachments/assets/f056c65c-26ae-472e-b670-7e9c833d4f60
+
+https://github.com/user-attachments/assets/9e6afbe8-127a-4bc6-9d24-676516ccffe3
+
+
 
 ---
 
